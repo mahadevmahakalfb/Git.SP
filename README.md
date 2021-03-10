@@ -53,6 +53,11 @@ _NOTE: The top languages do not indicate my skill level or something like that, 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samirpaul1" alt="samirpaul1" /></a> </p>
 
 ---
+<p align=center>                           
+<img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/ThankYou.gif" height="162" />
+</p>
+
+---
 
 
 [twitter]: https://twitter.com/SamirPaul01
